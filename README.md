@@ -1,4 +1,4 @@
-# Learn HTML Forms by Building a Registration Form, Not started
+# Learn HTML Forms by Building a Registration Form
 
 You can use HTML forms to collect information from people who visit your webpage.
 
